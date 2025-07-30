@@ -1,2 +1,2 @@
 config SHIELD_ROMAC
-    def_bool $(shields_list__contains, romac)
+    def_bool $(shields_list_contains, romac)
