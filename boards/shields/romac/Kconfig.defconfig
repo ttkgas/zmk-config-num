@@ -2,5 +2,5 @@ if SHIELD_ROMAC
 
 config ZMK_KEYBOARD_NAME
     default "romac"
-CONFIG_ZMK_BLE_PASSKEY_ENTRY=y
+ZMK_USB=y
 endif
