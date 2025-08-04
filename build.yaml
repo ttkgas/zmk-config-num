@@ -21,3 +21,5 @@
 include:
   - board: nice_nano_v2
     shield: romac
+  - board: nice_nano_v2
+    shield: settings_reset
