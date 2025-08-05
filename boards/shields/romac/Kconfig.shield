@@ -1,2 +1,2 @@
-config SHIELD_ROMAC
-    def_bool $(shields_list_contains, romac)
+config SHIELD_JIGGLEP
+    def_bool $(shields_list_contains, jigglep)

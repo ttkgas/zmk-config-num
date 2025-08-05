@@ -1,6 +1,6 @@
-if SHIELD_ROMAC
+if SHIELD_JIGGLEP
 
 config ZMK_KEYBOARD_NAME
-    default "romac"
+    default "jigglep"
 ZMK_USB=y
 endif
